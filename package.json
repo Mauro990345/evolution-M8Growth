@@ -110,6 +110,7 @@
     "node-cache": "^5.1.2",
     "node-cron": "^3.0.3",
     "openai": "^4.77.3",
+    "patch-package": "^8.0.1",
     "pg": "^8.13.1",
     "pino": "^9.10.0",
     "prisma": "^6.1.0",
@@ -154,7 +155,6 @@
     "prettier": "^3.4.2",
     "tsconfig-paths": "^4.2.0",
     "tsx": "^4.20.5",
-    "typescript": "^5.7.2",
-    "patch-package": "^8.0.1"
+    "typescript": "^5.7.2"
   }
 }
